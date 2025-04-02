@@ -9,3 +9,4 @@ print("Jane recieves at least" ,W*2)
 #3
 A = int(input("How old are you(in years)? "))
 print("Your age in days is", A*365)
+print(f"in {(100-A)*365} days you'll be 100")
